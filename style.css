@@ -11,6 +11,16 @@
 .bike{
     filter: grayscale(1);
 }
+.item{
+    transition: 0.5s ;
+}
+.boy{
+    width: 150px;
+}
+.item:hover{
+    filter:grayscale(1) brightness(70%);
+
+}
 footer{
-    height: 250px;
+    height: 150px;
 }
