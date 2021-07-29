@@ -11,3 +11,6 @@
 .bike{
     filter: grayscale(1);
 }
+footer{
+    height: 250px;
+}
