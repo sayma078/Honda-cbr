@@ -1,0 +1,13 @@
+.banner-clr{
+    background-color:#264653 ;
+}
+.btn-clr{
+    background-color: #E76F51;
+}
+.icon-clr{
+    color: #E76F51;
+
+}
+.bike{
+    filter: grayscale(1);
+}
